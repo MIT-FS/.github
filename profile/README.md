@@ -1,4 +1,4 @@
-![Factorías de Software] (https://github.com/MIT-FS/.github/img/logofs.png](https://github.com/MIT-FS/.github/blob/main/img/logofs.png)
+![Factorías de Software](https://github.com/MIT-FS/.github/blob/main/img/logofs.png)
 
 # MIT-FS
 
